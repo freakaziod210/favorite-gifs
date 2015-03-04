@@ -10,6 +10,11 @@
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
 ```
 
+![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
+```
+![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
+```
+
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
 ```
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
