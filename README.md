@@ -15,6 +15,16 @@
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
 ```
 
+![humpDay](https://github.com/aharris88/favorite-gifs/raw/master/humpDay.gif)
+```
+![humpDay](https://github.com/aharris88/favorite-gifs/raw/master/humpDay.gif)
+```
+
+![iDontKnowWhatWereYellingAbout](https://github.com/aharris88/favorite-gifs/raw/master/iDontKnowWhatWereYellingAbout.gif)
+```
+![iDontKnowWhatWereYellingAbout](https://github.com/aharris88/favorite-gifs/raw/master/iDontKnowWhatWereYellingAbout.gif)
+```
+
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
 ```
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
