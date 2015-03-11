@@ -1,5 +1,10 @@
 # My Favorite Gifs
 
+![coolBeans](https://github.com/aharris88/favorite-gifs/raw/master/coolBeans.gif)
+```
+![coolBeans](https://github.com/aharris88/favorite-gifs/raw/master/coolBeans.gif)
+```
+
 ![coolCoolCoolCool](https://github.com/aharris88/favorite-gifs/raw/master/coolCoolCoolCool.gif)
 ```
 ![coolCoolCoolCool](https://github.com/aharris88/favorite-gifs/raw/master/coolCoolCoolCool.gif)
