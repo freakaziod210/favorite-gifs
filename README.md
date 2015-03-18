@@ -69,3 +69,13 @@
 ```
 ![tooLegitToQuit](https://github.com/aharris88/favorite-gifs/raw/master/tooLegitToQuit.gif)
 ```
+
+![trollInTheDungeon](https://github.com/aharris88/favorite-gifs/raw/master/trollInTheDungeon.gif)
+```
+![trollInTheDungeon](https://github.com/aharris88/favorite-gifs/raw/master/trollInTheDungeon.gif)
+```
+
+![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
+```
+![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
+```
