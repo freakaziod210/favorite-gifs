@@ -45,6 +45,11 @@
 ![mindBlown](https://github.com/aharris88/favorite-gifs/raw/master/mindBlown.gif)
 ```
 
+![neilDegrasseTyson](https://github.com/aharris88/favorite-gifs/raw/master/neilDegrasseTyson.gif)
+```
+![neilDegrasseTyson](https://github.com/aharris88/favorite-gifs/raw/master/neilDegrasseTyson.gif)
+```
+
 ![nooice](https://github.com/aharris88/favorite-gifs/raw/master/nooice.gif)
 ```
 ![nooice](https://github.com/aharris88/favorite-gifs/raw/master/nooice.gif)
