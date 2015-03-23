@@ -84,3 +84,8 @@
 ```
 ![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
 ```
+
+![youGotItDude](https://github.com/aharris88/favorite-gifs/raw/master/youGotItDude.gif)
+```
+![youGotItDude](https://github.com/aharris88/favorite-gifs/raw/master/youGotItDude.gif)
+```
