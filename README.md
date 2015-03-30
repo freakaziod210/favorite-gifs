@@ -10,6 +10,11 @@
 ![coolCoolCoolCool](https://github.com/aharris88/favorite-gifs/raw/master/coolCoolCoolCool.gif)
 ```
 
+![doIt](https://github.com/aharris88/favorite-gifs/raw/master/doIt.gif)
+```
+![doIt](https://github.com/aharris88/favorite-gifs/raw/master/doIt.gif)
+```
+
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
 ```
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
@@ -63,6 +68,11 @@
 ![sayWhat](https://github.com/aharris88/favorite-gifs/raw/master/sayWhat.gif)
 ```
 ![sayWhat](https://github.com/aharris88/favorite-gifs/raw/master/sayWhat.gif)
+```
+
+![selfHighFive](https://github.com/aharris88/favorite-gifs/raw/master/selfHighFive.gif)
+```
+![selfHighFive](https://github.com/aharris88/favorite-gifs/raw/master/selfHighFive.gif)
 ```
 
 ![theInternet](https://github.com/aharris88/favorite-gifs/raw/master/theInternet.gif)
