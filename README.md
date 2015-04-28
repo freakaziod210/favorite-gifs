@@ -15,6 +15,16 @@
 ![doIt](https://github.com/aharris88/favorite-gifs/raw/master/doIt.gif)
 ```
 
+![doIt2](https://github.com/aharris88/favorite-gifs/raw/master/doIt2.gif)
+```
+![doIt2](https://github.com/aharris88/favorite-gifs/raw/master/doIt2.gif)
+```
+
+![doOrDoNot](https://github.com/aharris88/favorite-gifs/raw/master/doOrDoNot.gif)
+```
+![doOrDoNot](https://github.com/aharris88/favorite-gifs/raw/master/doOrDoNot.gif)
+```
+
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
 ```
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
@@ -93,6 +103,11 @@
 ![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
 ```
 ![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
+```
+
+![youCanDoIt](https://github.com/aharris88/favorite-gifs/raw/master/youCanDoIt.gif)
+```
+![youCanDoIt](https://github.com/aharris88/favorite-gifs/raw/master/youCanDoIt.gif)
 ```
 
 ![youGotItDude](https://github.com/aharris88/favorite-gifs/raw/master/youGotItDude.gif)
