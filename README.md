@@ -95,6 +95,11 @@
 ![theInternet](https://github.com/aharris88/favorite-gifs/raw/master/theInternet.gif)
 ```
 
+![thumbsUp](https://github.com/aharris88/favorite-gifs/raw/master/thumbsUp.gif)
+```
+![thumbsUp](https://github.com/aharris88/favorite-gifs/raw/master/thumbsUp.gif)
+```
+
 ![tooLegitToQuit](https://github.com/aharris88/favorite-gifs/raw/master/tooLegitToQuit.gif)
 ```
 ![tooLegitToQuit](https://github.com/aharris88/favorite-gifs/raw/master/tooLegitToQuit.gif)
