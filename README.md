@@ -100,6 +100,11 @@
 ![thumbsUp](https://github.com/aharris88/favorite-gifs/raw/master/thumbsUp.gif)
 ```
 
+![thumbsUp2](https://github.com/aharris88/favorite-gifs/raw/master/thumbsUp2.gif)
+```
+![thumbsUp2](https://github.com/aharris88/favorite-gifs/raw/master/thumbsUp2.gif)
+```
+
 ![tooLegitToQuit](https://github.com/aharris88/favorite-gifs/raw/master/tooLegitToQuit.gif)
 ```
 ![tooLegitToQuit](https://github.com/aharris88/favorite-gifs/raw/master/tooLegitToQuit.gif)
