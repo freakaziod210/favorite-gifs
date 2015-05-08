@@ -45,6 +45,11 @@
 ![iDontKnowWhatWereYellingAbout](https://github.com/aharris88/favorite-gifs/raw/master/iDontKnowWhatWereYellingAbout.gif)
 ```
 
+![itsATrap](https://github.com/aharris88/favorite-gifs/raw/master/itsATrap.gif)
+```
+![itsATrap](https://github.com/aharris88/favorite-gifs/raw/master/itsATrap.gif)
+```
+
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
 ```
 ![itsWorking](https://github.com/aharris88/favorite-gifs/raw/master/itsWorking.gif)
