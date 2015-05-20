@@ -25,6 +25,11 @@
 ![doOrDoNot](https://github.com/aharris88/favorite-gifs/raw/master/doOrDoNot.gif)
 ```
 
+![escalated](https://github.com/aharris88/favorite-gifs/raw/master/escalated.gif)
+```
+![escalated](https://github.com/aharris88/favorite-gifs/raw/master/escalated.gif)
+```
+
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
 ```
 ![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
@@ -78,6 +83,16 @@
 ![muchRejoicing](https://github.com/aharris88/favorite-gifs/raw/master/muchRejoicing.gif)
 ```
 ![muchRejoicing](https://github.com/aharris88/favorite-gifs/raw/master/muchRejoicing.gif)
+```
+
+![oh](https://github.com/aharris88/favorite-gifs/raw/master/oh.gif)
+```
+![oh](https://github.com/aharris88/favorite-gifs/raw/master/oh.gif)
+```
+
+![powerRangersNinjaTurtles](https://github.com/aharris88/favorite-gifs/raw/master/powerRangersNinjaTurtles.gif)
+```
+![powerRangersNinjaTurtles](https://github.com/aharris88/favorite-gifs/raw/master/powerRangersNinjaTurtles.gif)
 ```
 
 ![sayMyName](https://github.com/aharris88/favorite-gifs/raw/master/sayMyName.gif)
