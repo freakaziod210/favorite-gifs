@@ -10,6 +10,11 @@
 ![coolCoolCoolCool](https://github.com/aharris88/favorite-gifs/raw/master/coolCoolCoolCool.gif)
 ```
 
+![dance](https://github.com/aharris88/favorite-gifs/raw/master/dance.gif)
+```
+![dance](https://github.com/aharris88/favorite-gifs/raw/master/dance.gif)
+```
+
 ![doIt](https://github.com/aharris88/favorite-gifs/raw/master/doIt.gif)
 ```
 ![doIt](https://github.com/aharris88/favorite-gifs/raw/master/doIt.gif)
@@ -38,6 +43,16 @@
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
 ```
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
+```
+
+![figuringItOut](https://github.com/aharris88/favorite-gifs/raw/master/figuringItOut.gif)
+```
+![figuringItOut](https://github.com/aharris88/favorite-gifs/raw/master/figuringItOut.gif)
+```
+
+![fire](https://github.com/aharris88/favorite-gifs/raw/master/fire.gif)
+```
+![fire](https://github.com/aharris88/favorite-gifs/raw/master/fire.gif)
 ```
 
 ![humpDay](https://github.com/aharris88/favorite-gifs/raw/master/humpDay.gif)
