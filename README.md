@@ -35,11 +35,6 @@
 ![escalated](https://github.com/aharris88/favorite-gifs/raw/master/escalated.gif)
 ```
 
-![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
-```
-![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
-```
-
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
 ```
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
@@ -55,6 +50,11 @@
 ![fire](https://github.com/aharris88/favorite-gifs/raw/master/fire.gif)
 ```
 
+![firehose](https://github.com/aharris88/favorite-gifs/raw/master/firehose.gif)
+```
+![firehose](https://github.com/aharris88/favorite-gifs/raw/master/firehose.gif)
+```
+
 ![humpDay](https://github.com/aharris88/favorite-gifs/raw/master/humpDay.gif)
 ```
 ![humpDay](https://github.com/aharris88/favorite-gifs/raw/master/humpDay.gif)
@@ -63,6 +63,11 @@
 ![iDontKnowWhatWereYellingAbout](https://github.com/aharris88/favorite-gifs/raw/master/iDontKnowWhatWereYellingAbout.gif)
 ```
 ![iDontKnowWhatWereYellingAbout](https://github.com/aharris88/favorite-gifs/raw/master/iDontKnowWhatWereYellingAbout.gif)
+```
+
+![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
+```
+![iLoveLamp](https://github.com/aharris88/favorite-gifs/raw/master/iLoveLamp.gif)
 ```
 
 ![itsATrap](https://github.com/aharris88/favorite-gifs/raw/master/itsATrap.gif)
