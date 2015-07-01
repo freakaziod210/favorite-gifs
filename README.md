@@ -155,6 +155,11 @@
 ![trollInTheDungeon](https://github.com/aharris88/favorite-gifs/raw/master/trollInTheDungeon.gif)
 ```
 
+![turningItOffAndOnAgain](https://github.com/aharris88/favorite-gifs/raw/master/turningItOffAndOnAgain.gif)
+```
+![turningItOffAndOnAgain](https://github.com/aharris88/favorite-gifs/raw/master/turningItOffAndOnAgain.gif)
+```
+
 ![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
 ```
 ![typing](https://github.com/aharris88/favorite-gifs/raw/master/typing.gif)
