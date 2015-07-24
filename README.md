@@ -1,5 +1,10 @@
 # My Favorite Gifs
 
+![coincidenceIThinkNot](https://github.com/aharris88/favorite-gifs/raw/master/coincidenceIThinkNot.gif)
+```
+![coincidenceIThinkNot](https://github.com/aharris88/favorite-gifs/raw/master/coincidenceIThinkNot.gif)
+```
+
 ![coolBeans](https://github.com/aharris88/favorite-gifs/raw/master/coolBeans.gif)
 ```
 ![coolBeans](https://github.com/aharris88/favorite-gifs/raw/master/coolBeans.gif)
