@@ -1,5 +1,10 @@
 # My Favorite Gifs
 
+![bueller](https://github.com/aharris88/favorite-gifs/raw/master/bueller.gif)
+```
+![bueller](https://github.com/aharris88/favorite-gifs/raw/master/bueller.gif)
+```
+
 ![coincidenceIThinkNot](https://github.com/aharris88/favorite-gifs/raw/master/coincidenceIThinkNot.gif)
 ```
 ![coincidenceIThinkNot](https://github.com/aharris88/favorite-gifs/raw/master/coincidenceIThinkNot.gif)
@@ -38,6 +43,11 @@
 ![escalated](https://github.com/aharris88/favorite-gifs/raw/master/escalated.gif)
 ```
 ![escalated](https://github.com/aharris88/favorite-gifs/raw/master/escalated.gif)
+```
+
+![excellentAdventure](https://github.com/aharris88/favorite-gifs/raw/master/excellentAdventure.gif)
+```
+![excellentAdventure](https://github.com/aharris88/favorite-gifs/raw/master/excellentAdventure.gif)
 ```
 
 ![fascinating](https://github.com/aharris88/favorite-gifs/raw/master/fascinating.gif)
